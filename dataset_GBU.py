@@ -13,7 +13,7 @@ def map_label(label, classes):
 class DATA_LOADER(object):
     def __init__(self, opt):
 
-        if opt.dataset in ['FLO', 'CUB'']:
+        if opt.dataset in ['FLO', 'CUB']:
             self.read(opt)
         else:
             self.read_matdataset(opt)
