@@ -19,7 +19,7 @@ Scipy 1.6
 
 # Usage
 
-Put your [datasets](https://www.dropbox.com/s/5sprhvavkb3pu5m/GSMFlow_data.zip?dl=0) in data folder and run the scripts:
+Put your [datasets](https://drive.google.com/file/d/1KxFC6T_kGKCNx1JyX2FOaSimA0DOcU_I/view?usp=sharing) in data folder and run the scripts:
 
 **AWA2**:
 ```
